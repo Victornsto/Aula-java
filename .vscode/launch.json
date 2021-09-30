@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "Aula-java_2266e5d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch EntradaGrafico",
+            "request": "launch",
+            "mainClass": "EntradaGrafico",
+            "projectName": "Aula-java_2266e5d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassWrapper",
+            "request": "launch",
+            "mainClass": "ClassWrapper",
+            "projectName": "Aula-java_2266e5d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entrada",
+            "request": "launch",
+            "mainClass": "Entrada",
+            "projectName": "Aula-java_2266e5d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch VarCons",
+            "request": "launch",
+            "mainClass": "VarCons",
+            "projectName": "Aula-java_2266e5d4"
+        }
+    ]
+}
